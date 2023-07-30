@@ -17,7 +17,7 @@
 | 4.   | [Моделирование процесса очистки золота](https://github.com/gerasimovich-a/educational_projects/tree/main/09_gold_recovery_model) | Моделирование процесса очистки золота и предсказание коэффициента восстановления из руды | python, pandas, numpy, matplotlib, sklearn, imblearn       |
 | 5.   | [Прогноз количества заказов такси](https://github.com/gerasimovich-a/educational_projects/tree/main/11_taxi_order_forecast) | Прогноз количества заказов такси на основе временных рядов| python, pandas, numpy, statsmodels, matplotlib, imblearn |
 | 6.   | [Определение токсичных комментариев](https://github.com/gerasimovich-a/educational_projects/tree/main/12_toxic_comments_classification_bert) | NLP. Классификация токсичных комментариев с помощью предобученного трансформера            | python, pandas, numpy, torch, sklearn, transformers |
-| 7.   | [Оптимизация энергозатрат процесса выплавки сплавов](https://github.com/gerasimovich-a/educational_projects/tree/main/final_temperature_controle_model) | NLP. Классификация токсичных комментариев с помощью предобученного трансформера            | python, pandas, numpy, matplotlib, sklearn, imblearn |
+| 7.   | [Оптимизация энергозатрат процесса выплавки сплавов](https://github.com/gerasimovich-a/educational_projects/tree/main/final_temperature_controle_model) | Моделирование процесса выплавки сплавов (предсказание температуры)            | python, pandas, numpy, matplotlib, sklearn, catboost |
 
 
 ```python
