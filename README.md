@@ -20,12 +20,9 @@
 | 7.   | [Оптимизация энергозатрат процесса выплавки сплавов](https://github.com/gerasimovich-a/educational_projects/tree/main/final_temperature_controle_model) | Моделирование процесса выплавки сплавов (предсказание температуры)            | python, pandas, numpy, matplotlib, sklearn, catboost |
 
 
-```python
-
-```
 <p align="center">
   <a href="https://github.com/gerasimovich-a">
     <img src="https://komarev.com/ghpvc/?username=gerasimovich-a&color=blue&style=flat)" />
   </a>
 </p>
-<!--
+
